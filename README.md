@@ -27,5 +27,5 @@
 - 여행 관련 정보의 계층적 구조화
 - 사용자 친화적 내비게이션
 
-## 👩‍🎨 디자이너
+## 디자이너
 Copyright © 2020 Kimminhee All Rights Reserved.
