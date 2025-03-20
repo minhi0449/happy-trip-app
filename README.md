@@ -1,4 +1,5 @@
 # 여행쇼 (Travel Show) - UI/UX Design Project 2020
+> https://minhi0449.github.io/happy-trip-app/
 
 ## 🎨 디자인 시스템
 ### Color Palette
